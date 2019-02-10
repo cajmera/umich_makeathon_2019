@@ -5,14 +5,14 @@ by Adam Schreck, Chintan Ajmera, Fuhu Xiao, and Aditya Shylesh
 We created a RC car with autonomous capabilties
 
 **Electronics/Software Used:**
-Raspberry Pi Model 3
-Arduino
-Several 9 volt Batteries, Powerbank
-Logitech Webcam
-Ultrasonic Sensor
-Breadboard
-RC Car Chassis (from Walmart)
-OpenCV
+Raspberry Pi Model 3 /
+Arduino /
+Several 9 volt Batteries, Powerbank /
+Logitech Webcam /
+Ultrasonic Sensor /
+Breadboard /
+RC Car Chassis (from Walmart) /
+OpenCV /
 
 
 
